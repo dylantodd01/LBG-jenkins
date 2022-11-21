@@ -2,4 +2,4 @@
 
 This is a demo of Jenkins Freestyle Jobs
 
-Test commit 1
+Test commit 2
